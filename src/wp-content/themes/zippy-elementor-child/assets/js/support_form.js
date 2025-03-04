@@ -1,5 +1,5 @@
 $(function() {
-    $("#form-field-timepicker").prop('disabled', true);
+    $("#form-field-timepicker").prop('readonly', true);
     $("#form-field-timepicker").addClass('disabled');
     flatpickr("#form-field-datepicker", {
         dateFormat: "Y-m-d",
