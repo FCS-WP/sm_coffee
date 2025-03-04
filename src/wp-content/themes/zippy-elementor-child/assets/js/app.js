@@ -13,3 +13,5 @@ let Main = {
 
 
 // Main.init();
+
+import './support_form'
